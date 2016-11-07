@@ -1,0 +1,11 @@
+{
+  "name": "cats",
+  "version": "0.0.0",
+  "dependencies": {
+    "jquery": "~1.11.0",
+    "bootstrap": "3.3.5",
+    "font-awesome": ">=4.1.0",
+    "react": "^15.3.0",
+    "Swiper": "swiper#^3.3.1"
+  }
+}
